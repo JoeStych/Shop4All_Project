@@ -13,8 +13,11 @@ The application for the seller of products. Contains features for changing Selle
 # Shop4All_SQL_DB.txt
 Contains the structure for the SQL database.
 
-# Shop4All_Tablefiller.py
+# Shop4All_Table_Filler.py
 A Python program designed to fill the SQL and MongoDB databases with dummy values for program testing.
+
+# Shop4allfunctions.py
+A collection of functioned used by the programs in a separate file for reusability.
 
 # MongoDB Information
 MongoDB was managed by using the GUI application. MongoDB was used to contain the product reviews. Each review had customerID, productID, a score out of 5, and review text.
